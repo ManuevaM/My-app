@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TP2Connexe</string>
+    <string name="eff"><![CDATA[<-]]></string>
+    <string name="multi">*</string>
+    <string name="point">.</string>
+    <string name="m">M</string>
+    <string name="egal">=</string>
+    <string name="mr">MR</string>
+    <string name="zero">0</string>
+    <string name="p_m">+/-</string>
+    <string name="div">/</string>
+    <string name="moins">-</string>
+    <string name="plus">+</string>
+    <string name="neuf">9</string>
+    <string name="huit">8</string>
+    <string name="sept">7</string>
+    <string name="six">6</string>
+    <string name="cinq">5</string>
+    <string name="quatre">4</string>
+    <string name="trois">3</string>
+    <string name="un">1</string>
+    <string name="deux">2</string>
+</resources>
