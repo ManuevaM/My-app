@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="action_settings">actionSettings</string>
+    <string name="titre_section0">Printemps</string>
+    <string name="titre_section1">Eté</string>
+    <string name="titre_section2">Automne</string>
+    <string name="titre_section3">Hiver</string>
+    <style name="PagerTabStripText">
+    <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffff00</item>
+    </style>
+</resources>
